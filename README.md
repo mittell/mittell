@@ -5,7 +5,7 @@
 
 ---
   
-### Hello there! :wave:
+### :wave: Hello there!
   
 Hi, I'm Chris, a Full-Stack Developer with experience building solutions with .NET/.NET Core across multiple industries within the UK, including IT/Networking, Retail, Leisure & Tourism, and Life Sciences.
 
@@ -14,6 +14,25 @@ I've recently relocated to Nagoya, Japan, where I'm learning to migrate to Node 
 (This will get updated shortly with so many things!)
   
 ---
+
+### :japan: As of 2022:
+  
+</div>
+  
+- :hammer: I’m currently working on ...
+- :bookmark_tabs: I’m currently learning ...
+- :coffee: I’m looking to collaborate on ...
+- :question: I’m looking for help with ...
+- :loudspeaker: Ask me about ...
+- :telephone_receiver: How to reach me: ...
+- :smile: Pronouns: ...
+- :japanese_ogre: Fun fact: ...
+  
+---
+
+<div align="center">
+  
+### :roller_coaster: Currently Learning:
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
@@ -35,7 +54,15 @@ I've recently relocated to Nagoya, Japan, where I'm learning to migrate to Node 
   
 ---
   
-### Where to find me: :mag_right:
+### :rainbow: Past Experience:
+  
+![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  
+---
+  
+### :mag_right: Where I am:
 
 <a href="https://www.facebook.com/chris.mittell/" target="_blank"><img src="/assets/facebook.svg" width="48" align="center"></a>
 <a href="https://github.com/mittell" target="_blank"><img src="/assets/github-icon.svg" width="48" align="center"></a>
@@ -54,7 +81,7 @@ I've recently relocated to Nagoya, Japan, where I'm learning to migrate to Node 
 
 ---
 
-### Latest Writings :black_nib:
+### :black_nib: Latest Writings:
   
 </div>
   
@@ -70,7 +97,7 @@ I've recently relocated to Nagoya, Japan, where I'm learning to migrate to Node 
 
 ---
 
-### GitHub Stats: :bar_chart:
+### :bar_chart: GitHub Stats:
   
 ![Top Langs](https://github-readme-stats-mittell.vercel.app/api/top-langs/?username=mittell&theme=aura_dark&layout=compact&langs_count=10)
   
@@ -82,7 +109,7 @@ I've recently relocated to Nagoya, Japan, where I'm learning to migrate to Node 
   
 ---
   
-### My Projects: :grin:
+### :grin: My Projects:
   
 [![Readme Card](https://github-readme-stats-mittell.vercel.app/api/pin/?username=mittell&theme=aura_dark&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats-mittell.vercel.app/api/pin/?username=mittell&theme=aura_dark&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
