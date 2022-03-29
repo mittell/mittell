@@ -14,6 +14,8 @@ I've recently relocated to Nagoya, Japan, where I'm learning to migrate to Node 
 (This will get updated shortly with so many things!)
   
 ---
+  
+### Where to find me: :mag_right:
 
 <a href="https://www.facebook.com/chris.mittell/" target="_blank"><img src="/assets/facebook.svg" width="48" align="center"></a>
 <a href="https://github.com/mittell" target="_blank"><img src="/assets/github-icon.svg" width="48" align="center"></a>
@@ -32,6 +34,24 @@ I've recently relocated to Nagoya, Japan, where I'm learning to migrate to Node 
 
 ---
 
+### Latest Writings :black_nib:
+  
+</div>
+  
+<!-- BLOG-POST-LIST:START -->
+- [RSS Solutions for Restaurants](http://www.feedforall.com/restaurant.htm)
+- [RSS Solutions for Schools and Colleges](http://www.feedforall.com/schools.htm)
+- [RSS Solutions for Computer Service Companies](http://www.feedforall.com/computer-service.htm)
+- [RSS Solutions for Governments](http://www.feedforall.com/government.htm)
+- [RSS Solutions for Politicians](http://www.feedforall.com/politics.htm)
+<!-- BLOG-POST-LIST:END -->  
+
+<div align="center">
+
+---
+
+### GitHub Stats: :bar_chart:
+  
 ![Top Langs](https://github-readme-stats-mittell.vercel.app/api/top-langs/?username=mittell&theme=aura_dark&layout=compact&langs_count=10)
   
 ![Chris Mittell's GitHub stats](https://github-readme-stats-mittell.vercel.app/api?username=mittell&hide=stars,contribs&show_icons=true&theme=aura_dark)
@@ -42,37 +62,17 @@ I've recently relocated to Nagoya, Japan, where I'm learning to migrate to Node 
   
 ---
   
+### My Projects: :grin:
+  
 [![Readme Card](https://github-readme-stats-mittell.vercel.app/api/pin/?username=mittell&theme=aura_dark&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats-mittell.vercel.app/api/pin/?username=mittell&theme=aura_dark&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats-mittell.vercel.app/api/pin/?username=mittell&theme=aura_dark&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
   
 ---
 
-### Latest Posts
-<!-- BLOG-POST-LIST:START -->
-- [RSS Solutions for Restaurants](http://www.feedforall.com/restaurant.htm)
-- [RSS Solutions for Schools and Colleges](http://www.feedforall.com/schools.htm)
-- [RSS Solutions for Computer Service Companies](http://www.feedforall.com/computer-service.htm)
-- [RSS Solutions for Governments](http://www.feedforall.com/government.htm)
-- [RSS Solutions for Politicians](http://www.feedforall.com/politics.htm)
-<!-- BLOG-POST-LIST:END -->  
-
----
-  
 </div>
 
 <!--
-### Hi there 👋
-
-Hi, I'm Chris, a Full-Stack Developer with experience building solutions with .NET/.NET Core across multiple industries within the UK, including IT/Networking, Retail, Leisure & Tourism, and Life Sciences.
-
-I've recently relocated to Nagoya, Japan, where I'm learning to migrate to Node with the aim of building upon my existing experience and education, and work towards becoming a Software Architect, with a focus on Cloud Technologies and Microservices.
-
-(This will get updated shortly with so many things!)
--->
-<!--
-**mittell/mittell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
