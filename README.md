@@ -47,6 +47,12 @@ I've recently relocated to Nagoya, Japan, where I'm learning to migrate to Node 
 [![Readme Card](https://github-readme-stats-mittell.vercel.app/api/pin/?username=mittell&theme=aura_dark&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
   
 ---
+
+### Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+  
+---
   
 </div>
 
