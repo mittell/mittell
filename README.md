@@ -1,6 +1,6 @@
 <div align="center">
   
-![This is a alt text.](/github-header-image.png "This is a sample image.")
+![Chris Mittell - Full-Stack Developer](/assets/github-header-image.png "Chris Mittell - Full-Stack Developer")
 <!--# Chris Mittell - Full-Stack Developer-->
 
 ---
@@ -13,6 +13,23 @@ I've recently relocated to Nagoya, Japan, where I'm learning to migrate to Node 
 
 (This will get updated shortly with so many things!)
   
+---
+
+<a href="https://www.facebook.com/chris.mittell/" target="_blank"><img src="/assets/facebook.svg" width="48" align="center"></a>
+<a href="https://github.com/mittell" target="_blank"><img src="/assets/github-icon.svg" width="48" align="center"></a>
+<a href="https://g.dev/mittell" target="_blank"><img src="/assets/google-developers.svg" width="48" align="center"></a>
+<a href="https://www.instagram.com/chrismittell/" target="_blank"><img src="/assets/instagram-icon.svg" width="48" align="center"></a>
+<a href="https://www.linkedin.com/in/chris-mittell/" target="_blank"><img src="/assets/linkedin-icon.svg" width="48" align="center"></a>
+<a href="https://cmittell.medium.com/" target="_blank"><img src="/assets/medium-icon.svg" width="48" align="center"></a>
+<a href="https://www.pinterest.jp/chris_mittell/" target="_blank"><img src="/assets/pinterest.svg" width="48" align="center"></a>
+<a href="https://stackshare.io/Mittell" target="_blank"><img src="/assets/stackshare.svg" width="48" align="center"></a>
+<a href="https://twitter.com/CMittell" target="_blank"><img src="/assets/twitter.svg" width="48" align="center"></a>
+<a href="https://www.udemy.com/user/chrismittell/" target="_blank"><img src="/assets/udemy-icon.svg" width="28" align="center"></a>
+<a href="https://dev.to/mittell" target="_blank"><img src="/assets/devto.svg" width="48" align="center"></a>
+<a href="#" target="_blank"><img src="/assets/glassdoor.svg" width="32" align="center"></a>
+<a href="https://docs.microsoft.com/en-gb/users/mittell/" target="_blank"><img src="/assets/microsoft.svg" width="48" align="center"></a>
+<a href="https://www.domestika.org/en/mittell" target="_blank"><img src="/assets/domestika.png" width="48" align="center"></a>
+
 ---
 
 ![Top Langs](https://github-readme-stats-mittell.vercel.app/api/top-langs/?username=mittell&theme=aura_dark&layout=compact&langs_count=10)
