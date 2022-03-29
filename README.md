@@ -35,7 +35,11 @@ I've recently relocated to Nagoya, Japan, where I'm learning to migrate to Node 
 ![Top Langs](https://github-readme-stats-mittell.vercel.app/api/top-langs/?username=mittell&theme=aura_dark&layout=compact&langs_count=10)
   
 ![Chris Mittell's GitHub stats](https://github-readme-stats-mittell.vercel.app/api?username=mittell&hide=stars,contribs&show_icons=true&theme=aura_dark)
-
+  
+<!--
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mittell&theme=algolia&date_format=j%20M%5B%20Y%5D&background=252334&ring=FE7372&fire=6CFECF&currStreakNum=6CFECF&sideNums=6CFECF&currStreakLabel=FE7372&sideLabels=FE7372)
+-->
+  
 ---
   
 [![Readme Card](https://github-readme-stats-mittell.vercel.app/api/pin/?username=mittell&theme=aura_dark&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
