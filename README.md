@@ -5,12 +5,16 @@
 ---
   
 ### :wave: Hello there!
+
+<div align="left">
   
 My name is Chris Mittell, I'm a Full-Stack Developer from the UK :uk: and now living in Japan :jp:.
 
 I would like to say that I'm just a developer with 6+ years experience of building tools, websites, and web applications with the Microsoft Stack, working from .NET Framework 4.5 to .NET Core 3.1.
 
 But that feels a little less fun and interesting, so instead, here is what I am and what I'm aiming for:
+  
+</div>  
   
 ---
 
@@ -19,7 +23,7 @@ But that feels a little less fun and interesting, so instead, here is what I am 
 - I'm a creative person with a flair for technological thinking and building.
 - I enjoy working with other people, building great teams, and of course... great software!
 - I've often worked alone or in small teams, but my last role catapulted my experience with collaboration across multiple teams involving development, testing, and infrastructure.
-- I've tried many independent endeavours including freelance work and even trying to run my own Drone Startup... needless to say each one failed. :satisfied:
+- I've tried many independent endeavours including freelance work and even tried to run my own Drone Startup... needless to say each one failed. :satisfied:
 - I've found myself mentoring at every opportunity provided to me, helping people understand and use technology has always been a keen interest of mine. I'm still trying to learn and find my own way through this crazy world of software, but where's the fun if we can't help other people at the same time?
 
 ---
@@ -32,7 +36,7 @@ But that feels a little less fun and interesting, so instead, here is what I am 
   
 <div align="center">
   
-(You can find more about me and what I'm learning below!)
+You can find more about me and what I'm learning below:
   
 [![chrismittell.dev](https://img.shields.io/badge/Personal_Site-%236CFECF.svg?style=for-the-badge&logo=CraftCMS&logoColor=black)](https://www.chrismittell.dev/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/CMittell)
@@ -47,19 +51,17 @@ But that feels a little less fun and interesting, so instead, here is what I am 
 
 ---
   
-:blush: My pronouns are he/him.
+<div align="left">
   
-:eyeglasses: I'm currently reading Clean Code.
+- :blush: My pronouns are he/him.
+- :eyeglasses: I'm currently reading Clean Code.
+- :scream: I love both Horror and Science Fiction genres.
+- :movie_camera: My favourite films are The Thing, Cube, AKIRA, and Vampire Hunter D.
+- :books: My favourite books are Dune, God Emperor of Dune, and hopefully Clean Code!
+- :guitar: I play electric guitar, even bass (when pushed), and I love to try and play the keyboard... with some success. :sweat_smile:
+- :helicopter: I'm also a certified Drone Pilot (in the UK :uk:).
   
-:scream: I love both Horror and Science Fiction genres.
-  
-:movie_camera: My favourite films are The Thing, Cube, AKIRA, and Vampire Hunter D.
-  
-:books: My favourite books are Dune, God Emperor of Dune, and hopefully Clean Code!
-  
-:guitar: I play electric guitar, even bass (when pushed), and I would love to learn to play the keyboard sometime too!
-  
-:helicopter: I'm also a certified Drone Pilot (in the UK :uk:).
+</div>
   
 </details>
   
@@ -69,9 +71,9 @@ But that feels a little less fun and interesting, so instead, here is what I am 
   
 </div>
   
-- :japanese_castle: I reside in Nagoya, arriving at the end of 2021 and currently holding a Dependant Visa.
+- :japanese_castle: I live in Nagoya, having arrived at the end of 2021 and currently hold a Dependant Visa.
 - :office: I'm looking for a Full-Time role and an opportunity to get a Working Visa Sponsorship.
-- :computer: I'm available to travel from Nagoya to Tokyo and Osaka, or anywhere in between, and I'm also available to work remotely.
+- :computer: I'm available to travel between Nagoya and Tokyo/Osaka, or anywhere in between, and I'm also available to work remotely.
 - :mortar_board: I hold a Bachelor's in Computer Game Development (BSc), and a Master's in Drone Technology and Applications (MSc).
 
 ---
@@ -161,6 +163,6 @@ But that feels a little less fun and interesting, so instead, here is what I am 
   
 ---
   
-Made with :heart:
+Made with :heart: and :joy:
 
 </div>
