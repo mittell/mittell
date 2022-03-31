@@ -8,9 +8,9 @@
 
 <div align="left">
   
-My name is Chris Mittell, I'm a Full-Stack Developer from the UK :uk: and now living in Japan :jp:.
+My name is Chris Mittell, and I'm a Full-Stack Developer from the UK :uk: and now living in Japan :jp:.
 
-I would like to say that I'm just a developer with 6+ years experience of building tools, websites, and web applications with the Microsoft Stack, working from .NET Framework 4.5 to .NET Core 3.1.
+I would like to say that I'm just a developer with 6+ years experience of building tools, websites, and web applications within the Microsoft Stack, working from .NET Framework 4.5 to .NET Core 3.1.
 
 But that feels a little less fun and interesting, so instead, here is what I am and what I'm aiming for:
   
