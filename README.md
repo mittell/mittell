@@ -7,6 +7,32 @@
 ### :wave: Hello there!
   
 My name is Chris Mittell, I'm a Full-Stack Developer from the UK :uk: and now living in Japan :jp:.
+
+I would like to say that I'm just a developer with 6+ years experience of building tools, websites, and web applications with the Microsoft Stack, working from .NET Framework 4.5 to .NET Core 3.1.
+
+But that feels a little less fun and interesting, so instead, here is what I am and what I'm aiming for:
+  
+---
+
+</div>  
+  
+- I'm a creative person with a flair for technological thinking and building.
+- I enjoy working with other people, building great teams, and of course... great software!
+- I've often worked alone or in small teams, but my last role catapulted my experience with collaboration across multiple teams involving development, testing, and infrastructure.
+- I've tried many independent endeavours including freelance work and even trying to run my own Drone Startup... needless to say each one failed. :satisfied:
+- I've found myself mentoring at every opportunity provided to me, helping people understand and use technology has always been a keen interest of mine. I'm still trying to learn and find my own way through this crazy world of software, but where's the fun if we can't help other people at the same time?
+
+---
+  
+- I want to branch out from working within a Microsoft-only ecosystem and  challenge myself to learn more languages, tools and frameworks.
+- I'm currently learning to work with JavaScript driven tools and frameworks, which meant overcoming a lifetime of ES5 and finally modernising with ES6+.
+- I also want to learn more about SPA's, Test-Driven Development, Software Architecture and building Microservices. 
+  
+---
+  
+<div align="center">
+  
+(You can find more about me and what I'm learning below!)
   
 [![chrismittell.dev](https://img.shields.io/badge/Personal_Site-%236CFECF.svg?style=for-the-badge&logo=CraftCMS&logoColor=black)](https://www.chrismittell.dev/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/CMittell)
@@ -31,6 +57,8 @@ My name is Chris Mittell, I'm a Full-Stack Developer from the UK :uk: and now li
   
 :books: My favourite books are Dune, God Emperor of Dune, and hopefully Clean Code!
   
+:guitar: I play electric guitar, even bass (when pushed), and I would love to learn to play the keyboard sometime too!
+  
 :helicopter: I'm also a certified Drone Pilot (in the UK :uk:).
   
 </details>
@@ -41,14 +69,10 @@ My name is Chris Mittell, I'm a Full-Stack Developer from the UK :uk: and now li
   
 </div>
   
-- :japanese_castle: I reside in Nagoya, arriving on and currently holding a Dependant Visa.
-- :office: Looking for Full-Time opportunities and a Working Visa Sponsorship.
-- :computer: I'm available to travel between Tokyo and Osaka, and able to work remotely.
+- :japanese_castle: I reside in Nagoya, arriving at the end of 2021 and currently holding a Dependant Visa.
+- :office: I'm looking for a Full-Time role and an opportunity to get a Working Visa Sponsorship.
+- :computer: I'm available to travel from Nagoya to Tokyo and Osaka, or anywhere in between, and I'm also available to work remotely.
 - :mortar_board: I hold a Bachelor's in Computer Game Development (BSc), and a Master's in Drone Technology and Applications (MSc).
-- :wrench: I have 6+ years experience working in a variety of development roles, my main focus being Back-End Development. 
-- :question: I enjoy working with teams and coordinating with Designers, Developers, DevOps, Testers, Stakeholders, Clients.
-- :satisfied: Passionate about working with people, building teams, and creating tools to help people do the best work they can!
-- :japanese_ogre: Something random!
 
 ---
 
