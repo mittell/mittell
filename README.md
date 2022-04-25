@@ -102,11 +102,11 @@ You can find more about me and what I'm learning below:
 </div>
   
 <!-- BLOG-POST-LIST:START -->
-<!-- - [RSS Solutions for Restaurants](http://www.feedforall.com/restaurant.htm)
+- [RSS Solutions for Restaurants](http://www.feedforall.com/restaurant.htm)
 - [RSS Solutions for Schools and Colleges](http://www.feedforall.com/schools.htm)
 - [RSS Solutions for Computer Service Companies](http://www.feedforall.com/computer-service.htm)
 - [RSS Solutions for Governments](http://www.feedforall.com/government.htm)
-- [RSS Solutions for Politicians](http://www.feedforall.com/politics.htm) -->
+- [RSS Solutions for Politicians](http://www.feedforall.com/politics.htm)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
