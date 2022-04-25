@@ -91,24 +91,6 @@ You can find more about me and what I'm learning below:
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-<!--
-
----
-
-### :black_nib: Latest Writings:
-
--->
-
-</div>
-  
-<!-- BLOG-POST-LIST:START -->
-- [RSS Solutions for Restaurants](http://www.feedforall.com/restaurant.htm)
-- [RSS Solutions for Schools and Colleges](http://www.feedforall.com/schools.htm)
-- [RSS Solutions for Computer Service Companies](http://www.feedforall.com/computer-service.htm)
-- [RSS Solutions for Governments](http://www.feedforall.com/government.htm)
-- [RSS Solutions for Politicians](http://www.feedforall.com/politics.htm)
-<!-- BLOG-POST-LIST:END -->
-
 <div align="center">
 
 ---
