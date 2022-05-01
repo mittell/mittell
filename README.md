@@ -101,6 +101,8 @@ You can find more about me and what I'm learning below:
 
 ![Chris Mittell's GitHub stats](https://github-readme-stats-mittell.vercel.app/api?username=mittell&hide=stars,contribs&show_icons=true&theme=aura_dark)
 
+![Chris Mittell's WakaTime stats](https://github-readme-stats-mittell.vercel.app/api/wakatime?username=mittell&theme=aura_dark)
+
 ---
 
 ### :grin: My Projects:
