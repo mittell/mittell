@@ -107,6 +107,8 @@ You can find more about me and what I'm learning below:
 
 ### :grin: My Projects:
 
+[![Readme Card](https://github-readme-stats-mittell.vercel.app/api/pin/?username=mittell&theme=aura_dark&repo=list-maker-api-v2)](https://github.com/mittell/list-maker-api-v2)
+
 [![Readme Card](https://github-readme-stats-mittell.vercel.app/api/pin/?username=mittell&theme=aura_dark&repo=list-maker-api)](https://github.com/mittell/list-maker-api)
 
 ---
