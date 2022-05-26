@@ -1,6 +1,10 @@
 <div align="center">
   
 ![Chris Mittell - Full-Stack Developer](/assets/github-header-image.png "Chris Mittell - Full-Stack Developer")
+  
+[![chrismittell.dev](https://img.shields.io/badge/Personal_Site-%236CFECF.svg?style=for-the-badge&logo=CraftCMS&logoColor=black)](https://www.chrismittell.dev/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/CMittell)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-mittell/)
 
 </div>
 
@@ -15,18 +19,6 @@ At the end of 2021 I was provided with the opportunity to move to Nagoya on a 5-
 Arriving with 7 years experience designing and building websites, web applications, and RESTful API’s utilising the Microsoft Stack. I’m currently looking for a Working Visa sponsorship, and learning to work with JavaScript Stack technologies, including Node.js, Express, TypeScript, and Vue.js.
 
 I’ve worked both independently and in small teams across multiple industries within the UK, and have had exposure to DevOps processes and Cloud-based platforms.
-  
----
-
-<div align="center">
-  
-You can find more about me and what I'm learning below:
-  
-[![chrismittell.dev](https://img.shields.io/badge/Personal_Site-%236CFECF.svg?style=for-the-badge&logo=CraftCMS&logoColor=black)](https://www.chrismittell.dev/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/CMittell)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-mittell/)
-
-</div>
   
 ---
 
