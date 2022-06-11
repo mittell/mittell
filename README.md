@@ -1,8 +1,6 @@
-### :wave: Introduction
+### Introduction
 
 I'm Chris, a Software Developer from the UK :uk: and now living in Japan :jp:.
-
----
 
 <div align="center">
   
@@ -11,6 +9,13 @@ I'm Chris, a Software Developer from the UK :uk: and now living in Japan :jp:.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-mittell/)
 
 </div>
+
+___
+
+### Latest Posts
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END --> 
 
 ---
 
