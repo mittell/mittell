@@ -14,6 +14,7 @@ ___
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [Becoming a Modern Developer - Week 0](https://dev.to/mittell/becoming-a-modern-developer-week-0-4n85)
 - [Becoming a Modern Developer - Introduction](https://dev.to/mittell/becoming-a-modern-developer-introduction-1ad0)
 <!-- BLOG-POST-LIST:END --> 
 
