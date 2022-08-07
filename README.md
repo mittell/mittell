@@ -31,11 +31,11 @@ ___
 </div>
 
 <!-- BLOG-POST-LIST:START -->
+- [Becoming a Modern Developer - Week 6/7](https://dev.to/mittell/becoming-a-modern-developer-week-67-29na)
 - [Becoming a Modern Developer - Week 4/5](https://dev.to/mittell/becoming-a-modern-developer-week-45-3j1i)
 - [Becoming a Modern Developer - Week 3](https://dev.to/mittell/becoming-a-modern-developer-week-3-4dl5)
 - [Becoming a Modern Developer - Week 2](https://dev.to/mittell/becoming-a-modern-developer-week-2-2pkg)
 - [Becoming a Modern Developer - Week 1](https://dev.to/mittell/becoming-a-modern-developer-week-1-1o8l)
-- [Becoming a Modern Developer - Week 0](https://dev.to/mittell/becoming-a-modern-developer-week-0-4n85)
 <!-- BLOG-POST-LIST:END --> 
 
 ---
