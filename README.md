@@ -12,8 +12,6 @@
 
 </div>
 
----
-
 # :wave: About
 
 Hi, I'm Chris, a Full-Stack Developer from the UK :uk: and currently living in Nagoya, Japan :jp:
@@ -21,8 +19,6 @@ Hi, I'm Chris, a Full-Stack Developer from the UK :uk: and currently living in N
  - :eyeglasses: I'm currently learning React, Next.js, Node, TypeScript.
  - :neckbeard: I have over 6 years experience building Web Applications and APIs.
  - :astonished: I've also worked with Vue 3, C#, .NET Core, .NET Framework, Microsoft SQL Server, and Microsoft Azure.
-
-___
 
 # :books: My Stack
 
@@ -61,8 +57,6 @@ ___
 
 </div>
 
----
-
 # :grin: My Projects:
 
 <div align="center">
@@ -72,8 +66,6 @@ ___
 [![Readme Card](https://github-readme-stats-mittell.vercel.app/api/pin/?username=mittell&theme=aura_dark&repo=list-maker-api-v2)](https://github.com/mittell/list-maker-api-v2)
 
 </div>
-
----
 
 # :bar_chart: GitHub Stats
 
