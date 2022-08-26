@@ -101,7 +101,7 @@ Hi, I'm Chris, a Full-Stack Developer from the UK :uk: and currently living in N
 
 </div>
 
-# :grin: My Projects:
+# :grin: My Projects
 
 <div align="center">
 
