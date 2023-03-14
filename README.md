@@ -16,12 +16,12 @@
 
 Hi, I'm Chris, a Full-Stack Developer from the UK and now living in Nagoya, Japan.
 
-- I'm currently <b>available for work</b>, and looking for <b>Full-Time Local/Remote Opportunities</b>.
+- I'm currently <b>available for work</b>, and looking for <b>Full-Time On-Site/Remote Opportunities</b>.
 - I'm learning React, Node.js, and TypeScript.
 - I've spent the last 6 years building Web Applications and APIs, using many different stacks and libraries.
-- I enjoy reading about Technology and Business History.
+<!-- - I enjoy reading about Technology and Business History.
 - I like to write about working in Tech and the challenges of ADHD. <b>(Check out my Twitter/Mastodon/Hashnode)</b>
-- My latest Project is <b>TOP SECRET</b>... but <b>Open Source</b>.
+- My latest Project is <b>TOP SECRET</b>... but <b>Open Source</b>. -->
 
 # :books: My Stack
 
