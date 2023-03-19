@@ -4,7 +4,6 @@
 
 [![Website](https://img.shields.io/badge/Website-%23FE7372.svg?style=for-the-badge&logo=CraftCMS&logoColor=white 'Website')](https://www.chrismittell.dev/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white 'Twitter')](https://twitter.com/CMittell)
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://techhub.social/@cmittell)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white 'LinkedIn')](https://www.linkedin.com/in/chris-mittell/)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@mittell)
 
