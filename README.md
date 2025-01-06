@@ -1,6 +1,6 @@
 I'm Chris, a software engineer based in North Wales, I've been working with code for a fairly long time, but over the last 10 years I've been working with:
 
-- C# and .NET
+- C#/.NET
 - JavaScript/TypeScript
 - Vue
 - React
