@@ -1,15 +1,21 @@
-<div align="center">
+Hi there! 👋
 
-[![Chris Mittell - Full-Stack Developer](./assets/github-header-image.png 'Chris Mittell - Full-Stack Developer')](https://chrismittell.dev)
+I'm Chris, a software engineer based in North Wales, I've been working with code for a fairly long time, but over the last 10 years I've been working with:
 
-[![Website](https://img.shields.io/badge/Website-%23FE7372.svg?style=for-the-badge&logo=CraftCMS&logoColor=white 'Website')](https://www.chrismittell.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white 'LinkedIn')](https://www.linkedin.com/in/chris-mittell/)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@mittell)
+- C# and .NET
+- JavaScript/TypeScript
+- Vue
+- React
+- Azure DevOps
+- Azure
 
-</div>
+I'm currently learning more about the following:
 
-<div align="center">
+- Next.js
+- Microservices
+- AWS
+- Terraform
+- LLMs
+- Python (maybe... 😅)
 
-Made with :heart: and :joy:
-
-</div>
+Please check out my [website](https://www.chrismittell.dev/) for more information on what I'm working on, sometimes I ramble on about other things there, but it's usually technical stuff. 😬
